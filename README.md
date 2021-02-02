@@ -1,6 +1,6 @@
 
 # Dev_Lab
-This is an repository of developing an eternal student.
+This is a development repository of an eternal student.
 
 One that believes that: 
 * Every day we must learn something new. 
