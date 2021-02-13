@@ -7,5 +7,5 @@ One that believes that:
 * New knowledges do not decreases our humbleness.
 * Collaborate is the key to learn and to retribute all collaboration recieved.
 
-The aim of this repository is to storage and register my path on this journey of an experienced business specialist (in continuous emprovement) that intent to become a data scientist. 
+The aim of this repository is to storage and register this journey of an experienced business specialist (in continuous emprovement) that intent to become a data scientist. 
 
